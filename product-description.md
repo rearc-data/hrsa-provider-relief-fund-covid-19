@@ -1,10 +1,6 @@
-<a href="https://www.rearc.io/data/">
-    <img src="./rearc_logo_rgb.png" alt="Rearc Logo" title="Rearc Logo" height="52" />
-</a>
-
 # HRSA Provider Relief Fund – General Allocation | CDC / HRSA
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/hrsa-provider-relief-fund-covid-19](https://github.com/rearc-data/hrsa-provider-relief-fund-covid-19).
 
 ## Main Overview:
 > The bipartisan CARES Act and the Paycheck Protection Program and Health Care Enhancement Act provided $175 billion in relief funds to hospitals and other healthcare providers on the front lines of the coronavirus response. The payments form the $50 billion general distribution is being distributed by the Department of Health and Human Services through the Health Resources and Services Administration to hospitals and healthcare providers based on eligible providers’ share of net patient revenue. This dataset represents the list of providers who received a payment from the General Distribution of the Provider Relief Fund and who have attested payments and agreed to the Terms and Conditions.  
